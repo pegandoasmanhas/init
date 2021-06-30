@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T15:18:04.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.1" etag="CARH4CmepUHU-PYq-z8w" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-30T15:18:59.086Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="JnVFGlPQn_Kh4klULBiP" version="14.8.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2377" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Wcwl40-C7_O344_qzu6y-0" value="" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=18;strokeColor=#B3B3B3;strokeWidth=2;fontColor=#2E2E2E;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="210.00000000000023" as="sourcePoint" />
+            <mxPoint x="120" y="209.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wcwl40-C7_O344_qzu6y-1" value="&lt;h1&gt;Elementos de Fluxo&lt;/h1&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontColor=#2E2E2E;html=1;autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="120" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wcwl40-C7_O344_qzu6y-2" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, &lt;br&gt;sed do eiusmod tempor incididunt ut labore et dolore &lt;br&gt;magna aliqua.Text" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontColor=#2E2E2E;autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="230" width="460" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wcwl40-C7_O344_qzu6y-3" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#b3b3b3&quot; style=&quot;line-height: 70%&quot;&gt;Uma etapa do processo.&lt;br&gt;A etapa é escrita dentro da caixa.&lt;br&gt;Normalmente, apenas uma seta sai da caixa.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;spacingLeft=140;strokeColor=#000000;fontColor=#B3B3B3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wcwl40-C7_O344_qzu6y-4" value="Direção do fluxo de uma etapa ou decisão para outra." style="html=1;fontFamily=Helvetica;fontSize=14;strokeColor=#000000;rounded=0;align=left;fillColor=#FAFAFA;spacingLeft=80;fontColor=#B3B3B3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="90" width="50" height="50" as="geometry">
+            <mxPoint x="890.0000000000005" y="200.00000000000023" as="sourcePoint" />
+            <mxPoint x="1010.0000000000005" y="200.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wcwl40-C7_O344_qzu6y-5" value="Decisão baseada em uma pergunta. A pergunta está escrita no diamante.&lt;br&gt;Mais de uma flecha sai do diamante, cada uma mostrando a direção &lt;br&gt;que o processo toma para uma determinada resposta à pergunta.&lt;br&gt;(Freqüentemente, as respostas são &quot;sim&quot; e &quot;não&quot;.)" style="rhombus;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;spacingLeft=140;fontColor=#B3B3B3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wcwl40-C7_O344_qzu6y-6" value="Atrasar ou esperar" style="shape=delay;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wcwl40-C7_O344_qzu6y-7" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(179, 179, 179); font-family: helvetica; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Entrada ou saída&lt;/span&gt;" style="shape=ellipse;html=1;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wcwl40-C7_O344_qzu6y-8" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Entrada ou saída&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;html=1;fixedSize=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wcwl40-C7_O344_qzu6y-9" value="&lt;span style=&quot;color: rgb(179 , 179 , 179)&quot;&gt;Documento&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wcwl40-C7_O344_qzu6y-10" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontSize=18;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="880" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wcwl40-C7_O344_qzu6y-11" value="Símbolos alternativos para pontos inicial e final" style="rounded=0;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wcwl40-C7_O344_qzu6y-12" value="Símbolos alternativos para pontos inicial e final" style="ellipse;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="1030" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
