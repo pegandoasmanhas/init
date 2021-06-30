@@ -1,105 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T15:43:13.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="AgSTklU-ZbJqs5fRiyxe" version="14.8.1" type="github" pages="3">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2377" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
-      <root>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="Wcwl40-C7_O344_qzu6y-0" value="" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=18;strokeColor=#B3B3B3;strokeWidth=2;fontColor=#2E2E2E;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="210.00000000000023" as="sourcePoint" />
-            <mxPoint x="120" y="209.99999999999977" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Wcwl40-C7_O344_qzu6y-1" value="&lt;h1&gt;Elementos de Fluxo&lt;/h1&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontColor=#2E2E2E;html=1;autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="120" width="360" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Wcwl40-C7_O344_qzu6y-2" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, &lt;br&gt;sed do eiusmod tempor incididunt ut labore et dolore &lt;br&gt;magna aliqua.Text" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontColor=#2E2E2E;autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="230" width="460" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Wcwl40-C7_O344_qzu6y-3" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#b3b3b3&quot; style=&quot;line-height: 70%&quot;&gt;Uma etapa do processo.&lt;br&gt;A etapa é escrita dentro da caixa.&lt;br&gt;Normalmente, apenas uma seta sai da caixa.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;spacingLeft=140;strokeColor=#000000;fontColor=#B3B3B3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Wcwl40-C7_O344_qzu6y-4" value="Direção do fluxo de uma etapa ou decisão para outra." style="html=1;fontFamily=Helvetica;fontSize=14;strokeColor=#000000;rounded=0;align=left;fillColor=#FAFAFA;spacingLeft=80;fontColor=#B3B3B3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="90" width="50" height="50" as="geometry">
-            <mxPoint x="890.0000000000005" y="200.00000000000023" as="sourcePoint" />
-            <mxPoint x="1010.0000000000005" y="200.00000000000023" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Wcwl40-C7_O344_qzu6y-5" value="Decisão baseada em uma pergunta. A pergunta está escrita no diamante.&lt;br&gt;Mais de uma flecha sai do diamante, cada uma mostrando a direção &lt;br&gt;que o processo toma para uma determinada resposta à pergunta.&lt;br&gt;(Freqüentemente, as respostas são &quot;sim&quot; e &quot;não&quot;.)" style="rhombus;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;spacingLeft=140;fontColor=#B3B3B3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="280" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Wcwl40-C7_O344_qzu6y-6" value="Atrasar ou esperar" style="shape=delay;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="440" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Wcwl40-C7_O344_qzu6y-7" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(179, 179, 179); font-family: helvetica; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Entrada ou saída&lt;/span&gt;" style="shape=ellipse;html=1;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="520" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Wcwl40-C7_O344_qzu6y-8" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Entrada ou saída&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;html=1;fixedSize=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Wcwl40-C7_O344_qzu6y-9" value="&lt;span style=&quot;color: rgb(179 , 179 , 179)&quot;&gt;Documento&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="760" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Wcwl40-C7_O344_qzu6y-10" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontSize=18;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="880" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Wcwl40-C7_O344_qzu6y-11" value="Símbolos alternativos para pontos inicial e final" style="rounded=0;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="950" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Wcwl40-C7_O344_qzu6y-12" value="Símbolos alternativos para pontos inicial e final" style="ellipse;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="1030" width="120" height="80" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="vr7KJHdVnsKD3P9J-1lZ" name="Page-2">
-    <mxGraphModel dx="2377" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
-      <root>
-        <mxCell id="W4BQk0_Bj1ws9zhu0F38-0" />
-        <mxCell id="W4BQk0_Bj1ws9zhu0F38-1" parent="W4BQk0_Bj1ws9zhu0F38-0" />
-        <mxCell id="W4BQk0_Bj1ws9zhu0F38-2" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#b3b3b3&quot; style=&quot;line-height: 70%&quot;&gt;Uma etapa do processo.&lt;br&gt;A etapa é escrita dentro da caixa.&lt;br&gt;Normalmente, apenas uma seta sai da caixa.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;spacingLeft=140;strokeColor=#000000;fontColor=#B3B3B3;" vertex="1" parent="W4BQk0_Bj1ws9zhu0F38-1">
-          <mxGeometry x="300" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="W4BQk0_Bj1ws9zhu0F38-3" value="Direção do fluxo de uma etapa ou decisão para outra." style="html=1;fontFamily=Helvetica;fontSize=14;strokeColor=#000000;rounded=0;align=left;fillColor=#FAFAFA;spacingLeft=80;fontColor=#B3B3B3;" edge="1" parent="W4BQk0_Bj1ws9zhu0F38-1">
-          <mxGeometry x="300" y="190" width="50" height="50" as="geometry">
-            <mxPoint x="300.00000000000045" y="300" as="sourcePoint" />
-            <mxPoint x="420.00000000000045" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="W4BQk0_Bj1ws9zhu0F38-4" value="Decisão baseada em uma pergunta. A pergunta está escrita no diamante.&lt;br&gt;Mais de uma flecha sai do diamante, cada uma mostrando a direção &lt;br&gt;que o processo toma para uma determinada resposta à pergunta.&lt;br&gt;(Freqüentemente, as respostas são &quot;sim&quot; e &quot;não&quot;.)" style="rhombus;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;spacingLeft=140;fontColor=#B3B3B3;" vertex="1" parent="W4BQk0_Bj1ws9zhu0F38-1">
-          <mxGeometry x="300" y="380" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="W4BQk0_Bj1ws9zhu0F38-5" value="Atrasar ou esperar" style="shape=delay;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="W4BQk0_Bj1ws9zhu0F38-1">
-          <mxGeometry x="300" y="540" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="W4BQk0_Bj1ws9zhu0F38-6" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(179, 179, 179); font-family: helvetica; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Entrada ou saída&lt;/span&gt;" style="shape=ellipse;html=1;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="W4BQk0_Bj1ws9zhu0F38-1">
-          <mxGeometry x="300" y="620" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="W4BQk0_Bj1ws9zhu0F38-7" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Entrada ou saída&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;html=1;fixedSize=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="W4BQk0_Bj1ws9zhu0F38-1">
-          <mxGeometry x="300" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="W4BQk0_Bj1ws9zhu0F38-8" value="&lt;span style=&quot;color: rgb(179 , 179 , 179)&quot;&gt;Documento&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="W4BQk0_Bj1ws9zhu0F38-1">
-          <mxGeometry x="300" y="860" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="W4BQk0_Bj1ws9zhu0F38-9" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontSize=18;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;" vertex="1" parent="W4BQk0_Bj1ws9zhu0F38-1">
-          <mxGeometry x="1360" y="160" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="W4BQk0_Bj1ws9zhu0F38-10" value="Símbolos alternativos para pontos inicial e final" style="rounded=0;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="W4BQk0_Bj1ws9zhu0F38-1">
-          <mxGeometry x="1360" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="W4BQk0_Bj1ws9zhu0F38-11" value="Símbolos alternativos para pontos inicial e final" style="ellipse;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="W4BQk0_Bj1ws9zhu0F38-1">
-          <mxGeometry x="1360" y="310" width="120" height="80" as="geometry" />
-        </mxCell>
-        <object label="&lt;b&gt;pagecount: &lt;/b&gt;%pagecount% /&amp;nbsp;%pagenumber%" placeholders="1" id="FGCXZ_fxBCExQk9qpnFe-0">
-          <mxCell style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="W4BQk0_Bj1ws9zhu0F38-1">
-            <mxGeometry x="110" y="550" width="120" height="20" as="geometry" />
-          </mxCell>
-        </object>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net" modified="2021-06-30T15:52:10.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="tkwpA5hSPrUSVgjlBRpA" version="14.8.1" type="github">
   <diagram id="RCX8UjMyPUyR1wqOm1Pj" name="Page-3">
-    <mxGraphModel dx="1426" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2852" dy="1836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="CYVsankMXV-RMAmFOc-R-0" />
         <mxCell id="CYVsankMXV-RMAmFOc-R-1" parent="CYVsankMXV-RMAmFOc-R-0" />
@@ -112,39 +13,61 @@
         <mxCell id="CYVsankMXV-RMAmFOc-R-3" value="&lt;h1&gt;Elementos de Fluxo&lt;/h1&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontColor=#2E2E2E;html=1;autosize=1;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
           <mxGeometry x="119" y="120" width="360" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CYVsankMXV-RMAmFOc-R-4" value="Elementos de fluxo" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;fontColor=#2E2E2E;autosize=1;resizable=0;resizeHeight=1;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
-          <mxGeometry x="129" y="245" width="150" height="20" as="geometry" />
+        <mxCell id="CYVsankMXV-RMAmFOc-R-4" value="Elementos de fluxo" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;fontColor=#2E2E2E;autosize=1;resizable=0;resizeHeight=1;fontStyle=2" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
+          <mxGeometry x="129" y="245" width="130" height="20" as="geometry" />
         </mxCell>
         <object label="&lt;b&gt;pagenumber:&lt;/b&gt; %pagenumber%" placeholders="1" id="FpgfsPhRv7HUvpzewL9a-0">
           <mxCell style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
-            <mxGeometry x="129" y="480" width="120" height="20" as="geometry" />
+            <mxGeometry x="129" y="370" width="120" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;id:&amp;nbsp;&lt;/b&gt;%id%" placeholders="1" id="FpgfsPhRv7HUvpzewL9a-1">
           <mxCell style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
-            <mxGeometry x="129" y="370" width="200" height="20" as="geometry" />
+            <mxGeometry x="129" y="320" width="200" height="20" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;b&gt;pagecount: &lt;/b&gt;%pagecount%" placeholders="1" id="FpgfsPhRv7HUvpzewL9a-2">
+        <object label="&lt;b&gt;Page Name: &lt;/b&gt;%page%&lt;span style=&quot;font-size: 14px&quot;&gt;	&lt;/span&gt;" placeholders="1" id="FpgfsPhRv7HUvpzewL9a-3">
           <mxCell style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
-            <mxGeometry x="129" y="510" width="110" height="20" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="&lt;b&gt;Page: &lt;/b&gt;%page%&lt;span style=&quot;font-size: 14px&quot;&gt;	&lt;/span&gt;" placeholders="1" id="FpgfsPhRv7HUvpzewL9a-3">
-          <mxCell style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
-            <mxGeometry x="129" y="520" width="100" height="20" as="geometry" />
+            <mxGeometry x="129" y="350" width="140" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Filename:&lt;/b&gt; %filename%&lt;span style=&quot;font-size: 14px&quot;&gt;	&lt;/span&gt;" placeholders="1" id="FpgfsPhRv7HUvpzewL9a-4">
           <mxCell style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
-            <mxGeometry x="129" y="341" width="190" height="20" as="geometry" />
+            <mxGeometry x="129" y="301" width="190" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Page:&lt;/b&gt;&amp;nbsp;%pagenumber% /&amp;nbsp;&lt;b&gt;&amp;nbsp;&lt;/b&gt;%pagecount%" placeholders="1" id="FpgfsPhRv7HUvpzewL9a-6">
           <mxCell style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
-            <mxGeometry x="129" y="410" width="90" height="20" as="geometry" />
+            <mxGeometry x="129" y="420" width="90" height="20" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="e-H71KWMeDqUF_6DADQq-0" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#b3b3b3&quot; style=&quot;line-height: 70%&quot;&gt;Uma etapa do processo.&lt;br&gt;A etapa é escrita dentro da caixa.&lt;br&gt;Normalmente, apenas uma seta sai da caixa.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;spacingLeft=140;strokeColor=#000000;fontColor=#B3B3B3;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
+          <mxGeometry x="640" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e-H71KWMeDqUF_6DADQq-1" value="Direção do fluxo de uma etapa ou decisão para outra." style="html=1;fontFamily=Helvetica;fontSize=14;strokeColor=#000000;rounded=0;align=left;fillColor=#FAFAFA;spacingLeft=80;fontColor=#B3B3B3;" edge="1" parent="CYVsankMXV-RMAmFOc-R-1">
+          <mxGeometry x="640" y="145" width="50" height="50" as="geometry">
+            <mxPoint x="640.0000000000005" y="255" as="sourcePoint" />
+            <mxPoint x="760.0000000000005" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-H71KWMeDqUF_6DADQq-2" value="Decisão baseada em uma pergunta. A pergunta está escrita no diamante.&lt;br&gt;Mais de uma flecha sai do diamante, cada uma mostrando a direção &lt;br&gt;que o processo toma para uma determinada resposta à pergunta.&lt;br&gt;(Freqüentemente, as respostas são &quot;sim&quot; e &quot;não&quot;.)" style="rhombus;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;spacingLeft=140;fontColor=#B3B3B3;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
+          <mxGeometry x="640" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e-H71KWMeDqUF_6DADQq-3" value="Atrasar ou esperar" style="shape=delay;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
+          <mxGeometry x="640" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e-H71KWMeDqUF_6DADQq-4" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(179, 179, 179); font-family: helvetica; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Entrada ou saída&lt;/span&gt;" style="shape=ellipse;html=1;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=100;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
+          <mxGeometry x="1370" y="750" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e-H71KWMeDqUF_6DADQq-5" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Entrada ou saída&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;html=1;fixedSize=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
+          <mxGeometry x="1370" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e-H71KWMeDqUF_6DADQq-6" value="&lt;span style=&quot;color: rgb(179 , 179 , 179)&quot;&gt;Documento&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
+          <mxGeometry x="1370" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e-H71KWMeDqUF_6DADQq-7" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontSize=18;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
+          <mxGeometry x="1370" y="605" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
