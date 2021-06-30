@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T15:36:02.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="VUYJFWCU56HCyvrK8XWJ" version="14.8.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-30T15:43:13.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="AgSTklU-ZbJqs5fRiyxe" version="14.8.1" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2377" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -90,26 +90,61 @@
         <mxCell id="W4BQk0_Bj1ws9zhu0F38-11" value="Símbolos alternativos para pontos inicial e final" style="ellipse;html=1;fontSize=14;fillColor=#FAFAFA;gradientColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#B3B3B3;spacingLeft=140;" vertex="1" parent="W4BQk0_Bj1ws9zhu0F38-1">
           <mxGeometry x="1360" y="310" width="120" height="80" as="geometry" />
         </mxCell>
+        <object label="&lt;b&gt;pagecount: &lt;/b&gt;%pagecount% /&amp;nbsp;%pagenumber%" placeholders="1" id="FGCXZ_fxBCExQk9qpnFe-0">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="W4BQk0_Bj1ws9zhu0F38-1">
+            <mxGeometry x="110" y="550" width="120" height="20" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="RCX8UjMyPUyR1wqOm1Pj" name="Page-3">
-    <mxGraphModel dx="1678" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="CYVsankMXV-RMAmFOc-R-0" />
         <mxCell id="CYVsankMXV-RMAmFOc-R-1" parent="CYVsankMXV-RMAmFOc-R-0" />
-        <mxCell id="CYVsankMXV-RMAmFOc-R-2" value="" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=18;strokeColor=#B3B3B3;strokeWidth=2;fontColor=#2E2E2E;" edge="1" parent="CYVsankMXV-RMAmFOc-R-1">
+        <mxCell id="CYVsankMXV-RMAmFOc-R-2" value="" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=18;strokeColor=#B3B3B3;strokeWidth=1;fontColor=#2E2E2E;" edge="1" parent="CYVsankMXV-RMAmFOc-R-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="210" as="sourcePoint" />
-            <mxPoint x="120" y="209.99999999999977" as="targetPoint" />
+            <mxPoint x="559" y="210" as="sourcePoint" />
+            <mxPoint x="119" y="209.99999999999977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CYVsankMXV-RMAmFOc-R-3" value="&lt;h1&gt;Elementos de Fluxo&lt;/h1&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontColor=#2E2E2E;html=1;autosize=1;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
-          <mxGeometry x="120" y="120" width="360" height="80" as="geometry" />
+          <mxGeometry x="119" y="120" width="360" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CYVsankMXV-RMAmFOc-R-4" value="Lorem ipsum dolor sit amet, consectetur adipisicing&amp;nbsp;&lt;br&gt;elit." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontColor=#2E2E2E;autosize=1;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
-          <mxGeometry x="130" y="240" width="430" height="50" as="geometry" />
+        <mxCell id="CYVsankMXV-RMAmFOc-R-4" value="Elementos de fluxo" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;fontColor=#2E2E2E;autosize=1;resizable=0;resizeHeight=1;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
+          <mxGeometry x="129" y="245" width="150" height="20" as="geometry" />
         </mxCell>
+        <object label="&lt;b&gt;pagenumber:&lt;/b&gt; %pagenumber%" placeholders="1" id="FpgfsPhRv7HUvpzewL9a-0">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
+            <mxGeometry x="129" y="480" width="120" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;b&gt;id:&amp;nbsp;&lt;/b&gt;%id%" placeholders="1" id="FpgfsPhRv7HUvpzewL9a-1">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
+            <mxGeometry x="129" y="370" width="200" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;b&gt;pagecount: &lt;/b&gt;%pagecount%" placeholders="1" id="FpgfsPhRv7HUvpzewL9a-2">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
+            <mxGeometry x="129" y="510" width="110" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;b&gt;Page: &lt;/b&gt;%page%&lt;span style=&quot;font-size: 14px&quot;&gt;	&lt;/span&gt;" placeholders="1" id="FpgfsPhRv7HUvpzewL9a-3">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
+            <mxGeometry x="129" y="520" width="100" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;b&gt;Filename:&lt;/b&gt; %filename%&lt;span style=&quot;font-size: 14px&quot;&gt;	&lt;/span&gt;" placeholders="1" id="FpgfsPhRv7HUvpzewL9a-4">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
+            <mxGeometry x="129" y="341" width="190" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;b&gt;Page:&lt;/b&gt;&amp;nbsp;%pagenumber% /&amp;nbsp;&lt;b&gt;&amp;nbsp;&lt;/b&gt;%pagecount%" placeholders="1" id="FpgfsPhRv7HUvpzewL9a-6">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="CYVsankMXV-RMAmFOc-R-1">
+            <mxGeometry x="129" y="410" width="90" height="20" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
